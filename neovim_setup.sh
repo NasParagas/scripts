@@ -125,7 +125,7 @@ npm -v
 # （任意）LSP/ツール例：pyright 等
 #=============================
 # 好みに応じて増減してください
-npm install -g pyright typescript typescript-language-server
+npm install -g pyright typescript typescript-language-serve yarn
 
 #=============================
 # Neovim: ソースからビルド & インストール
